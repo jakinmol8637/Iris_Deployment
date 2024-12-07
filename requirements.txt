@@ -7,7 +7,6 @@ wheel
 numpy
 
 joblib==1.2.0
-
-streamlit==0.23.1
-
-scikit-learn
+streamlit==1.27.2
+scikit-learn==0.23.1
+pandas==1.5.2
